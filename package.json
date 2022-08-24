@@ -1,6 +1,11 @@
 {
   "_moduleAliases": {
-    "@config": "./src/configs"
+    "@config": "./src/configs",
+    "@controller": "./src/controllers",
+    "@middleware": "./src/middlewares",
+    "@route": "./src/routes",
+    "@service": "./src/services",
+    "@util": "./src/utils"
   },
   "dependencies": {
     "module-alias": "^2.2.2"
